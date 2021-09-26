@@ -277,7 +277,7 @@ body {
 }
 
 @media (min-width: 1200px) {
-	.container .jumbotron {
+	.container.jumbotron {
 		background: url(http://localhost:3000/images/jumbotron_1200.jpg) no-repeat;
 		height: 675px;
 	}
